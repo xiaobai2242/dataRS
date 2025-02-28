@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20241127</CreaDate><CreaTime>18192200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="分区统计" ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\ZonalStatistics" Date="20241127" Time="181922">ZonalStatistics E:\10.28斜坡\5000\xiepo3000.shp FID E:\10.28斜坡\xinxi30\daobian E:\10.28斜坡\5000\3\daobian 最大值 DATA CURRENT_SLICE 90 自动检测 ARITHMETIC 360</Process></lineage></DataProperties></Esri></metadata>
